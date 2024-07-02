@@ -22,3 +22,5 @@ In trying to grow my familiarity with the Go language, I built a conversion tool
 ---
 
 # Tools
+## [Bash Toolbox](https://github.com/martypavalko/bash-toolbox)
+This is a collection of useful bash scripts that I have acquired and modified in some way, or created from scratch.
