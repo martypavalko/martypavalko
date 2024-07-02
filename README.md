@@ -9,11 +9,6 @@
 
 ---
 
-# Summary
-
-
----
-
 # Projects
 
 ## [Base Conversion with Go](https://github.com/martypavalko/baseConverter)
