@@ -12,7 +12,7 @@
 # Projects
 
 ## [Base Conversion with Go](https://github.com/martypavalko/baseConverter)
-In trying to grow my familiarity with the Go language, I built a conversion tool.  It will convert binary, hexadecimal, decimal, and base64 to the specified base.
+I'm trying to grow my familiarity with the Go language, I built a conversion tool.  It will convert binary, hexadecimal, decimal, and base64 to the specified base.
 
 ---
 
